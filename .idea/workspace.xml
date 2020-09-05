@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c581279d-a74a-4d65-bf87-0cb01f1601a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/IOexercise07/src/ZellersCongruence.java" beforeDir="false" afterPath="$PROJECT_DIR$/IOexercise07/src/ZellersCongruence.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h4PJL4ThpQnsSsyGHD9uRBL5pC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.UseNumberArgs">
+    <configuration name="NameArgsCats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NameArgsCats" />
+      <module name="IOexercise06" />
+      <option name="PROGRAM_PARAMETERS" value="Jean" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseNumberArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseNumberArgs" />
+      <module name="IOexercise05" />
+      <option name="PROGRAM_PARAMETERS" value="22.22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZellersCongruence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZellersCongruence" />
+      <module name="IOexercise07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NameArgsCats" />
+      <item itemvalue="Application.ZellersCongruence" />
+      <item itemvalue="Application.UseNumberArgs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseNumberArgs" />
+        <item itemvalue="Application.NameArgsCats" />
+        <item itemvalue="Application.ZellersCongruence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c581279d-a74a-4d65-bf87-0cb01f1601a0" name="Default Changelist" comment="" />
+      <created>1599267317941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599267317941</updated>
+      <workItem from="1599267319453" duration="1609000" />
+    </task>
+    <task id="LOCAL-00001" summary="Args had disappeared, so I added the values again.">
+      <created>1599267738945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599267738945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Args had disappeared, so I added the values again." />
+    <option name="LAST_COMMIT_MESSAGE" value="Args had disappeared, so I added the values again." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599267662259">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="174" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599267662259" />
+    <state x="207" y="55" key="CommitChangelistDialog2" timestamp="1599267738839">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="207" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1599267738839" />
+    <state width="1377" height="231" key="GridCell.Tab.0.bottom" timestamp="1599267667762">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1377" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599267667762" />
+    <state width="1377" height="231" key="GridCell.Tab.0.center" timestamp="1599267667761">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1377" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599267667761" />
+    <state width="1377" height="231" key="GridCell.Tab.0.left" timestamp="1599267667761">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1377" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599267667761" />
+    <state width="1377" height="231" key="GridCell.Tab.0.right" timestamp="1599267667761">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1377" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599267667761" />
+    <state x="309" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599267781778">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="309" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1599267781778" />
+  </component>
+</project>

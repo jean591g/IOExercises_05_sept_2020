@@ -36,7 +36,7 @@ public class ZellersCongruence {
         days.add("Saturday");
         days.add("Sunday");
 
-        System.out.println("\nThe day of the week is: " + days.get(d-1).toUpperCase());
+        System.out.println("\nThe day of the week is: " + days.get(d-1).toUpperCase() + " (" + d +")");
 
     }
 }
