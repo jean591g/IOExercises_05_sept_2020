@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IOExercises_05_sept_2020.iml" filepath="$PROJECT_DIR$/.idea/IOExercises_05_sept_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise01/IOexercise01.iml" filepath="$PROJECT_DIR$/IOexercise01/IOexercise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise02/IOexercise02.iml" filepath="$PROJECT_DIR$/IOexercise02/IOexercise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise03/IOexercise03.iml" filepath="$PROJECT_DIR$/IOexercise03/IOexercise03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise04/IOexercise04.iml" filepath="$PROJECT_DIR$/IOexercise04/IOexercise04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise05/IOexercise05.iml" filepath="$PROJECT_DIR$/IOexercise05/IOexercise05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise06/IOexercise06.iml" filepath="$PROJECT_DIR$/IOexercise06/IOexercise06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOexercise07/IOexercise07.iml" filepath="$PROJECT_DIR$/IOexercise07/IOexercise07.iml" />
+    </modules>
+  </component>
+</project>
