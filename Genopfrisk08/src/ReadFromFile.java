@@ -1,10 +1,18 @@
-import java.io.File;  // Import the File class
-import java.io.FileNotFoundException;  // Import this class to handle errors
-import java.util.Scanner; // Import the Scanner class to read text files
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class ReadFromFile {
 
-    public static void main(String[] args){
+    private static final String FILE_PATH = "Genopfrisk08/Resources/genopfrisk08_textfile.txt";
+
+    public static void main(String[] args) throws IOException {
+        FileUtil fileUtil = new FileUtil(FILE_PATH);
+        System.out.println("\nNumber of lines in text file: " + fileUtil.getLineCount() + "\n");
 
         try {
             File myObj = new File("Genopfrisk08/Resources/genopfrisk08_textfile.txt");
@@ -15,9 +23,27 @@ public class ReadFromFile {
             }
             myReader.close();
         } catch (FileNotFoundException e) {
-            System.out.println("An error occurred.");
+            System.err.println("An error occurred");
             e.printStackTrace();
         }
+    }
+}
 
+class FileUtil {
+    static BufferedReader reader = null;
+    public FileUtil(String filePath) throws FileNotFoundException {
+        File file = new File(filePath);
+        FileInputStream fileStream = new FileInputStream(file);
+        InputStreamReader input = new InputStreamReader(fileStream);
+        reader = new BufferedReader(input);
+    }
+
+    public static int getLineCount() throws IOException {
+        int lineCount = 0;
+        String data;
+        while((data = reader.readLine()) != null) {
+            lineCount++;
+        }
+        return lineCount;
     }
 }
