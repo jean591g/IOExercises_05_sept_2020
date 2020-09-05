@@ -2,7 +2,17 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk02/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk03/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk08/Resources" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
