@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c581279d-a74a-4d65-bf87-0cb01f1601a0" name="Default Changelist" comment="Genopfrisk del 2 - Exercise 2">
+    <list default="true" id="c581279d-a74a-4d65-bf87-0cb01f1601a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Genopfrisk09/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Genopfrisk09/src/Sort01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IOExercises_05_sept_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IOExercises_05_sept_2020.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Genopfrisk08/Resources/genopfrisk08_textfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Genopfrisk08/Resources/genopfrisk08_textfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Genopfrisk08/src/ReadFromFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Genopfrisk08/src/ReadFromFile.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ReadFromFile">
+  <component name="RunManager" selected="Application.Sort01">
     <configuration name="NameArgsCats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NameArgsCats" />
       <module name="IOexercise06" />
@@ -52,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
+      <module name="IOExercises_05_sept_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadFromFile" />
+      <module name="IOExercises_05_sept_2020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort01" />
       <module name="IOExercises_05_sept_2020" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,25 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZellersCongruence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZellersCongruence" />
-      <module name="IOexercise07" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.NameArgsCats" />
-      <item itemvalue="Application.ZellersCongruence" />
       <item itemvalue="Application.UseNumberArgs" />
       <item itemvalue="Application.ReadFromFile" />
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.Sort01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort01" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.ReadFromFile" />
         <item itemvalue="Application.UseNumberArgs" />
         <item itemvalue="Application.NameArgsCats" />
-        <item itemvalue="Application.ZellersCongruence" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599267317941</updated>
       <workItem from="1599267319453" duration="1609000" />
-      <workItem from="1599319805874" duration="1786000" />
+      <workItem from="1599319805874" duration="6188000" />
     </task>
     <task id="LOCAL-00001" summary="Args had disappeared, so I added the values again.">
       <created>1599267738945</created>
@@ -116,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599320823695</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Genopfrisk del 2 - Exercise 2">
+      <created>1599321660925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599321660925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,30 +149,34 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="174" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1599267662259" />
-    <state x="207" y="55" key="CommitChangelistDialog2" timestamp="1599321553512">
+    <state x="522" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1599410897486">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="207" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1599321553512" />
-    <state width="1377" height="231" key="GridCell.Tab.0.bottom" timestamp="1599321553548">
+    <state x="522" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1599410897486" />
+    <state x="207" y="55" key="CommitChangelistDialog2" timestamp="1599321660802">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1377" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599321553548" />
-    <state width="1377" height="231" key="GridCell.Tab.0.center" timestamp="1599321553547">
+    <state x="207" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1599321660802" />
+    <state width="1377" height="231" key="GridCell.Tab.0.bottom" timestamp="1599411781063">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1377" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599321553547" />
-    <state width="1377" height="231" key="GridCell.Tab.0.left" timestamp="1599321553546">
+    <state width="1377" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1599411781063" />
+    <state width="1377" height="231" key="GridCell.Tab.0.center" timestamp="1599411781062">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1377" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599321553546" />
-    <state width="1377" height="231" key="GridCell.Tab.0.right" timestamp="1599321553547">
+    <state width="1377" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1599411781062" />
+    <state width="1377" height="231" key="GridCell.Tab.0.left" timestamp="1599411781062">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1377" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599321553547" />
-    <state x="309" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599320839111">
+    <state width="1377" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1599411781062" />
+    <state width="1377" height="231" key="GridCell.Tab.0.right" timestamp="1599411781063">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="309" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1599320839111" />
+    <state width="1377" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1599411781063" />
+    <state x="309" y="201" key="Vcs.Push.Dialog.v2" timestamp="1599321692162">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="309" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1599321692162" />
     <state x="492" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599319984773">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

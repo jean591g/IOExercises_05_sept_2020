@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Genopfrisk07/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Genopfrisk08/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Genopfrisk08/Resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/Genopfrisk09/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
